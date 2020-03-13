@@ -1,6 +1,0 @@
-E:\Steam\steamapps\common\RimWorld\Mods\BulletCasings\Source\BulletCasingMote\obj\Debug\BulletCasingMote.csprojAssemblyReference.cache
-E:\Steam\steamapps\common\RimWorld\Mods\BulletCasings\Source\BulletCasingMote\obj\Debug\BulletCasingMote.csproj.CoreCompileInputs.cache
-E:\Steam\steamapps\common\RimWorld\Mods\BulletCasings\1.1\Assemblies\BulletCasingMote.dll
-E:\Steam\steamapps\common\RimWorld\Mods\BulletCasings\1.1\Assemblies\BulletCasingMote.pdb
-E:\Steam\steamapps\common\RimWorld\Mods\BulletCasings\Source\BulletCasingMote\obj\Debug\BulletCasingMote.dll
-E:\Steam\steamapps\common\RimWorld\Mods\BulletCasings\Source\BulletCasingMote\obj\Debug\BulletCasingMote.pdb
